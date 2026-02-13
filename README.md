@@ -14,7 +14,7 @@
 ## 🛠️ 技術スタック (TECH_STACK.EXE)
 > Please select a skill to execute:
 
-- **プログラミング言語 (LANGUAGES):** C#, JavaScript, TypeScript, Python, C, Java
+- **プログラミング言語 (PROGRAMMING LANGUAGES):** C#, JavaScript, TypeScript, Python, C, Java
 - **開発 (DEV):** .NET Core, Entity Framework, Node.js, REST API
 - **DB:** SQL Server, PostgreSQL, MongoDB
 - **言語能力 (LANGUAGES):** 英語 (English - Advanced), 日本語 (Japanese - Intermediate)
